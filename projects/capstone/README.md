@@ -1,11 +1,17 @@
 # Machine Learning Engineer Nanodegree
 ## Specializations
 ## Project: Capstone Proposal and Capstone Project
+## Blake Ward
 
 **Note**
 
-The Capstone is a two-staged project. The first is the proposal component, where you can receive valuable feedback about your project idea, design, and proposed solution. This must be completed prior to your implementation and submitting for the capstone project. 
+This project uses the following standard python libraries for data manipulation:
 
-You can find the [capstone proposal rubric here](https://review.udacity.com/#!/rubrics/410/view), and the [capstone project rubric here](https://review.udacity.com/#!/rubrics/108/view). Please ensure that you are following directions correctly before submitting these two stages which encapsulate your capstone.
+Pandas
+Numpy
+Matplotlib
 
-Please email [machine-support@udacity.com](mailto:machine-support@udacity.com) if you have any questions.
+For machine learning it uses sklearn modules.
+
+The data can be found in the project folder as run-time-data.csv
+
